@@ -1,3 +1,5 @@
+# face_detector_reactjs
+Aplicação de Reconhecimento Facial desenvolvida em ReactJS.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
