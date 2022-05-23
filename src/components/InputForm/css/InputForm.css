@@ -1,0 +1,37 @@
+.inputContainer{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.textForm{
+    margin: 1rem auto;
+}
+.textForm p{
+    font-size: 14pt;
+}
+.inputForm{
+    background:rgb(14, 170, 201);
+}
+.inputForm input{
+    width: 65%;
+    line-height: 40px;
+    padding: 0 5px;
+    margin: 0 5px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.inputForm button{
+    background-color: rgb(228,110,218);
+    border: none;
+    color: #fff;
+    height: 40px;
+    width: 30%;
+    border-radius: 5px;
+    margin: 1rem auto;
+}
+.inputForm button:hover{
+    background-color: rgb(177, 76, 168);
+}

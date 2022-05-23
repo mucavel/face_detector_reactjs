@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Circuit';
+    src: url(../fonts/FontsFree-Net-CIRCUIT_.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbarContainer{
+    background-color: rgba(0,0,0,.1);
+}
+.navbar{
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.navlogo h1{
+    font-family: 'Circuit', Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-top: 1.2rem;
+}
+.navlogo img{
+    width: 4rem;
+    height: 3.5rem;
+    padding: 5px 20px 5px 5px;
+}
+.navbar div{
+    width: 40%;
+}
+.signout{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1rem;
+}
